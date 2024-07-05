@@ -1,0 +1,13 @@
+{
+  "src": [
+    "pages/login",
+    "pages/index",
+    "pages/process",
+    "pages/VideoPage",
+    "pages/Mall",
+    "pages/mine",
+    "pages/Login1",
+    "pages/Malldetail"
+
+  ]
+}
